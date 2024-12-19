@@ -12,7 +12,7 @@ Esta es una aplicación para explorar, leer y gestionar tus cómics favoritos. I
 ## Capturas de Pantalla
 | Categoría | Ejemplo de UI |
 |-----------|---------------|
-| Mangas    | ![Mangas UI](ruta/a/manga_ui.png) |
+| Mangas    | ![Mangas UI](app/src/main/res/drawable/ic_download.png) |
 | Favoritos | ![Favoritos UI](ruta/a/favoritos_ui.png) |
 
 ## Instalación
