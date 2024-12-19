@@ -64,6 +64,7 @@ class MainActivity : ComponentActivity() {
 }
 @Composable
 fun LogoBox() {
+
     Box(
         modifier = Modifier
             .size(40.dp)
